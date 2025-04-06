@@ -48,12 +48,18 @@ This assignment will help you practice:
 - It includes starter code and automated tests that will run when you push your changes
 - Clone the repository to your local machine to begin working on the assignment
 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### Part 1: Update this README.md
 Replace the "Part 1" section with:
 - A brief introduction about yourself (first name only)
 - What you're hoping to get out of this course
 - Topics you would like to see included
 - A musical recommendation and a link to something about it (song, album, artist)
+My name is Avantika and I'm a graduate student in UCSF Data Science Program.
+I'm hoping to learn new skills this quarter that will help me with a career in Data Science.
+I would love to learn PyTorch
+[mylink](https://www.youtube.com/watch?v=CvBfHwUxHIk)
+
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
